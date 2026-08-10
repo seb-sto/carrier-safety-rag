@@ -1,5 +1,5 @@
-# Carrier Safety & Compliance Assistant
+# FDA Recall & Compliance Assistant
 
-RAG system over real FMCSA carrier safety data (eCFR Title 49 + MCMIS inspections/crashes). Built with FastAPI, LangChain, ChromaDB, and Claude Haiku.
+RAG system over real FDA regulatory and recall data (21 CFR + openFDA enforcement reports). Built with FastAPI, LangChain, ChromaDB, and Claude Haiku.
 
 **Status:** WIP

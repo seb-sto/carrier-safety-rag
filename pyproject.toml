@@ -1,5 +1,5 @@
 [project]
-name = "carrier-safety-rag"
+name = "fda-recall-rag"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
